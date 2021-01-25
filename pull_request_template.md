@@ -2,6 +2,10 @@
 
 Please include a summary of the change.
 
+## Link to Ticket
+
+Please include a link to the Ticket for this change.
+
 ## Type of change
 - [ ] Bug fix (non-breaking change that fixes an issue)
 - [ ] Security fix (non-breaking change that fixes a potential vulnerability)
